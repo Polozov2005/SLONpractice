@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1900">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .01em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        font-size: 24px;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: TimesNewRomanPSMT, 'Times New Roman';
+      }
+
+      .cls-5, .cls-6 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-11 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-13 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-4 {
+        font-size: 36px;
+      }
+
+      .cls-6 {
+        stroke-dasharray: 0 0 12.57 12.57;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-5" x="700" y="100" width="200" height="100" rx="46.91" ry="46.91"/>
+    <text class="cls-4" transform="translate(744.55 162.51)"><tspan x="0" y="0">Н</tspan><tspan class="cls-11" x="26" y="0">а</tspan><tspan x="40.54" y="0">ч</tspan><tspan class="cls-2" x="58.64" y="0">а</tspan><tspan x="74.94" y="0">ло</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-5" x="700" y="300" width="200" height="100"/>
+    <text class="cls-4" transform="translate(740.35 340.91)"><tspan x="0" y="0">Импо</tspan><tspan class="cls-10" x="86.04" y="0">р</tspan><tspan x="103.57" y="0">т </tspan><tspan x="-4.19" y="43.2">м</tspan><tspan class="cls-14" x="18.59" y="43.2">о</tspan><tspan x="35.55" y="43.2">д</tspan><tspan class="cls-12" x="53.87" y="43.2">у</tspan><tspan x="70.29" y="43.2">лей</tspan></text>
+  </g>
+  <g>
+    <path class="cls-5" d="m1030,300h-30v100h30"/>
+    <text class="cls-4" transform="translate(1010 340.91)"><tspan x="0" y="0">numpy</tspan><tspan x="0" y="43.2">scipy</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="900" y1="350" x2="906" y2="350"/>
+    <line class="cls-6" x1="918.57" y1="350" x2="987.71" y2="350"/>
+    <line class="cls-5" x1="994" y1="350" x2="1000" y2="350"/>
+  </g>
+  <line class="cls-5" x1="800" y1="200" x2="800" y2="300"/>
+  <g>
+    <rect class="cls-5" x="700" y="500" width="200" height="100"/>
+    <text class="cls-3" transform="translate(738.81 543.94)"><tspan x="0" y="0">О</tspan><tspan class="cls-8" x="17.33" y="0">б</tspan><tspan x="28.95" y="0">ъя</tspan><tspan class="cls-10" x="52.39" y="0">в</tspan><tspan x="63.41" y="0">ление </tspan><tspan class="cls-8" x="-24.78" y="28.8">ф</tspan><tspan x="-9.83" y="28.8">ункции alpha(f)</tspan></text>
+  </g>
+  <line class="cls-5" x1="800" y1="400" x2="800" y2="500"/>
+  <polyline class="cls-5" points="1000 700 1000 650 800 650 800 600"/>
+  <g>
+    <rect class="cls-5" x="900" y="700" width="200" height="100"/>
+    <text class="cls-3" transform="translate(938.81 743.94)"><tspan x="0" y="0">О</tspan><tspan class="cls-8" x="17.33" y="0">б</tspan><tspan x="28.95" y="0">ъя</tspan><tspan class="cls-10" x="52.39" y="0">в</tspan><tspan x="63.41" y="0">ление </tspan><tspan class="cls-9" x="-.55" y="28.8">к</tspan><tspan x="9.89" y="28.8">онс</tspan><tspan class="cls-1" x="45.39" y="28.8">т</tspan><tspan x="56.17" y="28.8">анты e</tspan></text>
+  </g>
+  <g>
+    <path class="cls-5" d="m1230,700h-30v100h30"/>
+    <text class="cls-3" transform="translate(1210 743.94)"><tspan x="0" y="0">Значение из </tspan><tspan x="0" y="28.8">модуля numpy</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="1100" y1="750" x2="1106" y2="750"/>
+    <line class="cls-6" x1="1118.57" y1="750" x2="1187.71" y2="750"/>
+    <line class="cls-5" x1="1194" y1="750" x2="1200" y2="750"/>
+  </g>
+  <g>
+    <rect class="cls-5" x="900" y="900" width="200" height="100"/>
+    <text class="cls-3" transform="translate(959.06 929.54)"><tspan x="0" y="0">Задание </tspan><tspan x="-48.96" y="28.8">п</tspan><tspan class="cls-14" x="-36.11" y="28.8">о</tspan><tspan x="-24.8" y="28.8">дынтегр</tspan><tspan class="cls-2" x="59.36" y="28.8">а</tspan><tspan x="70.22" y="28.8">льной </tspan><tspan class="cls-8" x="-4.05" y="57.6">ф</tspan><tspan x="10.9" y="57.6">ункции</tspan></text>
+  </g>
+  <line class="cls-5" x1="1000" y1="800" x2="1000" y2="900"/>
+  <g>
+    <rect class="cls-5" x="900" y="1100" width="200" height="100"/>
+    <text class="cls-3" transform="translate(944.82 1129.54)"><tspan x="0" y="0">Численн</tspan><tspan class="cls-1" x="87.41" y="0">о</tspan><tspan x="99.7" y="0">е </tspan><tspan x="-26.58" y="28.8">интегриро</tspan><tspan class="cls-10" x="78.93" y="28.8">в</tspan><tspan x="89.95" y="28.8">ание </tspan><tspan x="-36.45" y="57.6">при п</tspan><tspan class="cls-7" x="20.09" y="57.6">о</tspan><tspan x="31.63" y="57.6">мощи scipy</tspan></text>
+  </g>
+  <line class="cls-5" x1="1000" y1="1000" x2="1000" y2="1100"/>
+  <g>
+    <rect class="cls-5" x="900" y="1300" width="200" height="100"/>
+    <text class="cls-3" transform="translate(936.67 1343.94)"><tspan x="0" y="0">Вычисление </tspan><tspan x="-30.39" y="28.8">зн</tspan><tspan class="cls-11" x="-8.07" y="28.8">а</tspan><tspan x="1.62" y="28.8">чения </tspan><tspan class="cls-8" x="67.07" y="28.8">ф</tspan><tspan x="82.03" y="28.8">ункции</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-5" x="900" y="1500" width="200" height="100"/>
+    <text class="cls-3" transform="translate(931.53 1543.94)"><tspan x="0" y="0">Возвращение </tspan><tspan x="-25.25" y="28.8">зн</tspan><tspan class="cls-11" x="-2.93" y="28.8">а</tspan><tspan x="6.76" y="28.8">чения </tspan><tspan class="cls-8" x="72.21" y="28.8">ф</tspan><tspan x="87.16" y="28.8">ункции</tspan></text>
+  </g>
+  <line class="cls-5" x1="1000" y1="1200" x2="1000" y2="1300"/>
+  <line class="cls-5" x1="1000" y1="1400" x2="1000" y2="1500"/>
+  <polyline class="cls-5" points="800 1700 800 1650 1000 1650 1000 1600"/>
+  <g>
+    <rect class="cls-5" x="700" y="1700" width="200" height="100" rx="46.91" ry="46.91"/>
+    <text class="cls-4" transform="translate(752.64 1762.51)"><tspan class="cls-13" x="0" y="0">К</tspan><tspan x="22.22" y="0">онец</tspan></text>
+  </g>
+</svg>

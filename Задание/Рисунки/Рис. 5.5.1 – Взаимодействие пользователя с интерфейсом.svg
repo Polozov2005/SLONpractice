@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1500">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .01em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        font-size: 24px;
+      }
+
+      .cls-4, .cls-5 {
+        font-family: TimesNewRomanPSMT, 'Times New Roman';
+      }
+
+      .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-10 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-7 {
+        stroke-dasharray: 0 0 12.12 12.12;
+      }
+
+      .cls-11 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-12 {
+        letter-spacing: .02em;
+      }
+
+      .cls-13 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-5 {
+        font-size: 36px;
+      }
+
+      .cls-15 {
+        letter-spacing: 0em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-8 {
+        stroke-dasharray: 0 0 11.96 11.96;
+      }
+
+      .cls-17 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9 {
+        stroke-dasharray: 0 0 12.57 12.57;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-6" x="100" y="100" width="200" height="100" rx="46.91" ry="46.91"/>
+    <text class="cls-5" transform="translate(144.55 162.51)"><tspan x="0" y="0">Н</tspan><tspan class="cls-11" x="26" y="0">а</tspan><tspan x="40.54" y="0">ч</tspan><tspan class="cls-3" x="58.64" y="0">а</tspan><tspan x="74.94" y="0">ло</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-6" x="100" y="300" width="200" height="100"/>
+    <text class="cls-4" transform="translate(119.38 343.94)"><tspan x="0" y="0">Иници</tspan><tspan class="cls-3" x="68.71" y="0">а</tspan><tspan x="79.57" y="0">лизация</tspan><tspan x="20.89" y="28.8">интерфей</tspan><tspan class="cls-1" x="118.76" y="28.8">с</tspan><tspan x="129.71" y="28.8">а</tspan></text>
+  </g>
+  <line class="cls-6" x1="200" y1="200" x2="200" y2="300"/>
+  <g>
+    <polygon class="cls-6" points="300 600 100 600 100 520 300 500 300 600"/>
+    <text class="cls-4" transform="translate(107.59 558.34)"><tspan x="0" y="0">В</tspan><tspan class="cls-15" x="16.01" y="0">в</tspan><tspan class="cls-14" x="27.18" y="0">о</tspan><tspan x="38.48" y="0">д зн</tspan><tspan class="cls-11" x="79.02" y="0">а</tspan><tspan x="88.71" y="0">чения phi</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-6" x="100" y="900" width="200" height="100"/>
+    <text class="cls-4" transform="translate(101.63 943.94)"><tspan x="0" y="0">Наж</tspan><tspan class="cls-2" x="44.57" y="0">а</tspan><tspan x="54.6" y="0">тие на кноп</tspan><tspan class="cls-16" x="173.43" y="0">к</tspan><tspan x="184.75" y="0">у </tspan><tspan x="48.15" y="28.8">«</tspan><tspan class="cls-10" x="60.15" y="28.8">Р</tspan><tspan x="73.18" y="28.8">ешить»</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-6" x="100" y="700" width="200" height="100"/>
+    <text class="cls-4" transform="translate(122.02 743.94)"><tspan x="0" y="0">Выбор сп</tspan><tspan class="cls-12" x="97.84" y="0">о</tspan><tspan x="110.44" y="0">соба </tspan><tspan x="33.72" y="28.8">решения</tspan></text>
+  </g>
+  <g>
+    <path class="cls-6" d="m430,700h-30v100h30"/>
+    <text class="cls-4" transform="translate(410 729.54)"><tspan x="0" y="0">Реализованной </tspan><tspan x="0" y="28.8">или встроенной </tspan><tspan x="0" y="57.6">функцией</tspan></text>
+  </g>
+  <g>
+    <line class="cls-6" x1="300" y1="750" x2="306" y2="750"/>
+    <line class="cls-9" x1="318.57" y1="750" x2="387.71" y2="750"/>
+    <line class="cls-6" x1="394" y1="750" x2="400" y2="750"/>
+  </g>
+  <g>
+    <rect class="cls-6" x="1100" y="300" width="200" height="100"/>
+    <text class="cls-5" transform="translate(1107.98 362.51)"><tspan x="0" y="0">Рас</tspan><tspan class="cls-17" x="51.98" y="0">с</tspan><tspan x="67.24" y="0">чёт I_m</tspan></text>
+  </g>
+  <g>
+    <path class="cls-6" d="m1170,600h110c19.46-20.43,20-44.88,20-50,0-28.21-16.47-46.29-20-50h-110c-13.96,5.55-32.03,14.7-50,30-7.94,6.76-14.55,13.6-20,20,5.45,6.4,12.06,13.24,20,20,17.97,15.3,36.04,24.45,50,30Z"/>
+    <text class="cls-4" transform="translate(1130.61 543.94)"><tspan x="0" y="0">Вывод графика </tspan><tspan x="64.5" y="28.8">i(t)</tspan></text>
+  </g>
+  <g>
+    <path class="cls-6" d="m1430,500h-30v100h30"/>
+    <text class="cls-5" transform="translate(1410 562.51)"><tspan x="0" y="0">(3.1)</tspan></text>
+  </g>
+  <g>
+    <line class="cls-6" x1="1300" y1="550" x2="1306" y2="550"/>
+    <line class="cls-9" x1="1318.57" y1="550" x2="1387.71" y2="550"/>
+    <line class="cls-6" x1="1394" y1="550" x2="1400" y2="550"/>
+  </g>
+  <g>
+    <path class="cls-6" d="m1170,800h110c19.46-20.43,20-44.88,20-50,0-28.21-16.47-46.29-20-50h-110c-13.96,5.55-32.03,14.7-50,30-7.94,6.76-14.55,13.6-20,20,5.45,6.4,12.06,13.24,20,20,17.97,15.3,36.04,24.45,50,30Z"/>
+    <text class="cls-4" transform="translate(1126 743.94)"><tspan x="0" y="0">Вывод значения </tspan><tspan x="64.44" y="28.8">I_m</tspan></text>
+  </g>
+  <line class="cls-6" x1="200" y1="400" x2="200" y2="510"/>
+  <line class="cls-6" x1="200" y1="600" x2="200" y2="700"/>
+  <line class="cls-6" x1="200" y1="800" x2="200" y2="900"/>
+  <g>
+    <rect class="cls-6" x="1100" y="900" width="200" height="100" rx="46.91" ry="46.91"/>
+    <text class="cls-5" transform="translate(1152.64 962.51)"><tspan class="cls-13" x="0" y="0">К</tspan><tspan x="22.22" y="0">онец</tspan></text>
+  </g>
+  <line class="cls-6" x1="1200" y1="400" x2="1200" y2="500"/>
+  <line class="cls-6" x1="1200" y1="600" x2="1200" y2="700"/>
+  <line class="cls-6" x1="1200" y1="800" x2="1200" y2="900"/>
+  <g>
+    <polyline class="cls-6" points="600 1044 600 1050 594 1050"/>
+    <line class="cls-8" x1="582.04" y1="1050" x2="61.98" y2="1050"/>
+    <polyline class="cls-6" points="56 1050 50 1050 50 1044"/>
+    <line class="cls-7" x1="50" y1="1031.88" x2="50" y2="262.06"/>
+    <polyline class="cls-6" points="50 256 50 250 56 250"/>
+    <line class="cls-8" x1="67.96" y1="250" x2="588.02" y2="250"/>
+    <polyline class="cls-6" points="594 250 600 250 600 256"/>
+    <line class="cls-7" x1="600" y1="268.12" x2="600" y2="1037.94"/>
+  </g>
+  <g>
+    <path class="cls-6" d="m730,600h-30v100h30"/>
+    <text class="cls-4" transform="translate(710 629.54)"><tspan x="0" y="0">Взаимодействие </tspan><tspan x="0" y="28.8">пользователя с </tspan><tspan x="0" y="57.6">интерфейсом</tspan></text>
+  </g>
+  <g>
+    <line class="cls-6" x1="600" y1="650" x2="606" y2="650"/>
+    <line class="cls-9" x1="618.57" y1="650" x2="687.71" y2="650"/>
+    <line class="cls-6" x1="694" y1="650" x2="700" y2="650"/>
+  </g>
+  <polyline class="cls-6" points="200 1000 200 1200 1000 1200 1000 200 1200 200 1200 300"/>
+</svg>
