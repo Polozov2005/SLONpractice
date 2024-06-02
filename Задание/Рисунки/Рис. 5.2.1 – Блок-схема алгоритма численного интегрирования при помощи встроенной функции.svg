@@ -91,7 +91,7 @@
   <polyline class="cls-5" points="1000 700 1000 650 800 650 800 600"/>
   <g>
     <rect class="cls-5" x="900" y="700" width="200" height="100"/>
-    <text class="cls-3" transform="translate(938.81 743.94)"><tspan x="0" y="0">О</tspan><tspan class="cls-8" x="17.33" y="0">б</tspan><tspan x="28.95" y="0">ъя</tspan><tspan class="cls-10" x="52.39" y="0">в</tspan><tspan x="63.41" y="0">ление </tspan><tspan class="cls-9" x="-.55" y="28.8">к</tspan><tspan x="9.89" y="28.8">онс</tspan><tspan class="cls-1" x="45.39" y="28.8">т</tspan><tspan x="56.17" y="28.8">анты e</tspan></text>
+    <text class="cls-3" transform="translate(938.81 743.94)"><tspan x="0" y="0">О</tspan><tspan class="cls-8" x="17.33" y="0">б</tspan><tspan x="28.95" y="0">ъя</tspan><tspan class="cls-10" x="52.39" y="0">в</tspan><tspan x="63.41" y="0">ление </tspan><tspan class="cls-9" x="-1.28" y="28.8">к</tspan><tspan x="9.16" y="28.8">онс</tspan><tspan class="cls-1" x="44.65" y="28.8">т</tspan><tspan x="55.44" y="28.8">анты π</tspan></text>
   </g>
   <g>
     <path class="cls-5" d="m1230,700h-30v100h30"/>
